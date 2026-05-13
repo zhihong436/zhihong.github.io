@@ -1,11 +1,12 @@
 ---
-title: "temp_website1"
+title: "Homepage"
 ---
+# Placeholder photo
+photo of me
 
-This is a Quarto website.
+# About Me
+I am a Applied AI student studying at the Singapore Institute Of Technology(SIT).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+During my diploma studies it provided me with valuable experience in topics such as Web Applications development, Data Structures and Algorithms and Machine Learning which I hope I can apply to my studies in SIT as well
 
-```{r}
-1 + 1
-```
+In my last year at Ngee Ann Polytechnic, I went for a five month internship at PricewaterhouseCoopers (PwC), where I mainly worked on Internal Applications Development using Microsoft PowerApps. Here I was able to hone my programming and problem-solving skills, through real world client interaction and continuous feedback regarding features and bugs during development. I was also able to be exposed to the software development workflows used in the industry.

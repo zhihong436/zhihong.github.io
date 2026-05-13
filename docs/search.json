@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website1",
+    "title": "Homepage",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Placeholder photo\nphoto of me\n\n\nAbout Me\nI am a Applied AI student studying at the Singapore Institute Of Technology(SIT).\nDuring my diploma studies it provided me with valuable experience in topics such as Web Applications development, Data Structures and Algorithms and Machine Learning which I hope I can apply to my studies in SIT as well\nIn my last year at Ngee Ann Polytechnic, I went for a five month internship at PricewaterhouseCoopers (PwC), where I mainly worked on Internal Applications Development using Microsoft PowerApps. Here I was able to hone my programming and problem-solving skills, through real world client interaction and continuous feedback regarding features and bugs during development. I was also able to be exposed to the software development workflows used in the industry."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Made during OOP module, with a team of 6 group members.\nGithub Link: https://github.com/zhihong436/OOP_AbstractEngine"
+  },
+  {
+    "objectID": "projects.html#abstract-game-engine-and-simple-game",
+    "href": "projects.html#abstract-game-engine-and-simple-game",
+    "title": "Projects",
+    "section": "",
+    "text": "Made during OOP module, with a team of 6 group members.\nGithub Link: https://github.com/zhihong436/OOP_AbstractEngine"
+  },
+  {
+    "objectID": "dataVis.html",
+    "href": "dataVis.html",
+    "title": "Data Visualisation",
+    "section": "",
+    "text": "Test"
   }
 ]

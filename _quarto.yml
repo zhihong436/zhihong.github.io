@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website1"
+  title: "Zhi Hong Website"
+  #favicon: favicon.png
   navbar:
+    #logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - projects.qmd
+      - dataVis.qmd
 
 format:
   html:
@@ -17,6 +20,8 @@ format:
       - brand
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 
 
